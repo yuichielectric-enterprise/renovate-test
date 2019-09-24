@@ -11,5 +11,8 @@
   "devDependencies": {
     "ts-node": "8.0.0",
     "tslint": "5.00.0"
+  },
+  "dependencies": {
+    "express": "^4.4.0"
   }
 }
