@@ -13,6 +13,6 @@
     "tslint": "5.00.0"
   },
   "dependencies": {
-    "express": "4.0.0"
+    "express": "4.16.0"
   }
 }
