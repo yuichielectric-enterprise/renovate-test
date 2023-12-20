@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ts-node": "8.0.0",
+    "ts-node": "10.9.2",
     "tslint": "5.00.0"
   },
   "dependencies": {
